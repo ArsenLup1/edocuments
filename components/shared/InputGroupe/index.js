@@ -1,6 +1,7 @@
 import React from "react";
 import { Label, Input, } from "reactstrap";
 import { FormWarp } from "./inputG.stc";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const InputGroup = (props) => {
   // const { children, textLabel, typeInput, nameInput, idInput, valueInput } = props;

@@ -1,6 +1,7 @@
 import React from "react";
 //import HeroScroll from "../HeroScroll";
 import Wrapper from "../Wrapper";
+import "bootstrap/dist/css/bootstrap.min.css";
 import BackgroundImage from "../BackgroundImage";
 import HeroStc from "./Hero.stc";
 import BgImage from "../BackgroundImage";

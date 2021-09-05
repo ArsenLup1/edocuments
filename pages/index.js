@@ -1,6 +1,7 @@
 import Hero from "../components/Hero";
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Image from 'next/image';
+import "bootstrap/dist/css/bootstrap.min.css";
+import styles from '../styles/Home.module.css';
 //import StepTow from "../components/shared/FormStepTow";
 //import SectionCarousselDeuxColonne from "../components/SectionCarousselDeuxColonne";
 
