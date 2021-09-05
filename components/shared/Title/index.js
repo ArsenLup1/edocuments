@@ -1,6 +1,6 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
-import TitleStc from './tilte.stc';
+import TitleStc from './title.stc';
 
 const Title =(props)=>{
     return (
