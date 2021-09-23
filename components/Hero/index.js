@@ -21,7 +21,7 @@ const Hero = () => {
             Pour tout savoir sur les études, la vie, 
             le travail et les soins médicaux dans le Royaume
             </p>
-            <button type="button" class="btn btn-default my-0 my-md-5 defilerBtn"><CgScrollV />Défiler</button>
+            <button type="button" className="btn btn-default my-0 my-md-5 defilerBtn"><CgScrollV />Défiler</button>
           </div>
         </div>
         <div className="col-lg-6 d-none d-sm-none d-md-none d-lg-block  ">
