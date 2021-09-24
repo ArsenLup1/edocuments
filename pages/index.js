@@ -2,6 +2,7 @@ import Hero from "../components/Hero";
 import Image from 'next/image';
 import "bootstrap/dist/css/bootstrap.min.css";
 import styles from '../styles/Home.module.css';
+import NavbarAir from '../components/shared/NavbarAir';
 //import StepTow from "../components/shared/FormStepTow";
 //import SectionCarousselDeuxColonne from "../components/SectionCarousselDeuxColonne";
 
@@ -9,6 +10,7 @@ export default function Home() {
   return (
     <div>
       <main>
+        <NavbarAir />
         <Hero />J
       </main>
 

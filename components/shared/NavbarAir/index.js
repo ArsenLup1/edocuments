@@ -27,7 +27,7 @@ const MainNav = (props) => {
       <NavbarStc light expand="md">
         <Container>
           <NavbarBrand href="/" className="siteLogo mr-auto">
-            <img src="/img/logo.jpeg" height="70" className="logo" />
+            <img src="/img/logo.jpg" height="70" className="logo" />
           </NavbarBrand>
           <NavbarToggler onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
