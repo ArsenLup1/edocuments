@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/babel-plugin": "^11.3.0",
     "babel-plugin-import": "^1.13.3",
+    "babel-plugin-react-intl-2-lingui": "^1.0.7",
+    "babel-plugin-styled": "0.0.0",
+    "babel-plugin-styled-components": "^1.13.2",
     "babel-plugin-superjson-next": "^0.3.1",
     "babel-preset-next": "^1.4.0",
     "babelrc": "0.0.7",
