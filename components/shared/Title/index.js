@@ -8,7 +8,8 @@ const Title =(props)=>{
                   marge_bas={props.marge_bas} 
                   couleur={props.couleur} 
                   taille={props.taille} 
-                  poid_font={props.poid_font}>
+                  poid_font={props.poid_font}
+                  alignement={props.alignement}>
             {props.texte}
         </TitleStc>
     )

@@ -1,5 +1,4 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
 import { Button, Badge } from "reactstrap";
 import BoutonStc from "./Bouton.stc";
 import "bootstrap/dist/css/bootstrap.min.css";
